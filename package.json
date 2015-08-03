@@ -1,0 +1,44 @@
+{
+  "name": "semrush",
+  "description": "The simpliest and fastest way to use Semrush in node/iojs",
+  "tags": [
+    "semrush",
+    "util",
+    "node",
+    "seo",
+    "marketing",
+    "api",
+    "iojs"
+  ],
+  "version": "0.0.1",
+  "author": {
+    "name": "Ruben Sospedra",
+    "email": "hello@sospedra"
+  },
+  "contributors": [
+    { "name": "Rubén Sospedra", "email": "hello@sospedra.me" }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edravis/semrush.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.4.0"    
+  },
+  "scripts": {},
+  "devDependencies": {
+    "nodeunit": ">=0.6.2"
+  },
+  "readme": "",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/edravis/semrush/issues"
+  },
+  "homepage": "https://github.com/edravis/semrush",
+  "dependencies": {
+    "csv-parse": "0.0.6",
+    "http": "0.0.0",
+    "querystring": "^0.2.0"
+  }
+}
